@@ -57,10 +57,4 @@ The following questions were answered using the dataset:
 | Records with Sales > $1,000 | 468 |
 | Records with Negative Profit | 1,871 |
 
-## 📁 Project Structure
 
-```text
-Day11-Data-Sorting-Filtering/
-│
-├── Day11_Data_Sorting_Filtering.xlsx
-└── README.md
